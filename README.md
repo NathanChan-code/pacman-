@@ -2,7 +2,7 @@
 
 ### Features within my project
 - Ghost A.I.
-- Implement collision.
+- Implemented collision.
 - Add scoring system.
 - Pause menu.
 - Sound effects and music
