@@ -1,8 +1,9 @@
 # pacman-FOGG Semester 1 project
-features within the game:
--score system
--Pacman fully moving in all 4 directions 
--Ghost/AI
--dash mechanic
--Ghost collision
--pause menu
+
+### Features within my project
+- Ghost A.I.
+- Implement collision.
+- Add scoring system.
+- Pause menu.
+- Sound effects and music
+- Dash mechanic
