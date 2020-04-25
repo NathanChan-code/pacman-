@@ -1,0 +1,78 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\vector(1753,1): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>::_Mypair': class 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\vector(1753): message : see declaration of 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>' being compiled
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(175,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(180,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(187,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(192,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(211,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(227,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(247,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(249,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(251,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(253,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(259,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(260,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(261,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(262,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(271,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(272,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(273,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(274,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(287,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(288,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(289,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(290,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Pacman.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\vector(1753,1): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>::_Mypair': class 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\vector(1753): message : see declaration of 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>' being compiled
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(175,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(180,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(187,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(192,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(211,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(227,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(247,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(249,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(251,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(253,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(259,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(260,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(261,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(262,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(271,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(272,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(273,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(274,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(287,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(288,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(289,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.h(290,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.cpp(73,19): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.cpp(86,17): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.cpp(107,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.cpp(107,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.cpp(118,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.cpp(118,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.cpp(192,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathan\Documents\uni work\pacman game\Pacman\Pacman.cpp(193,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Pacman.vcxproj -> C:\Users\Nathan\Documents\uni work\pacman game\Debug\Pacman.exe
